@@ -17,8 +17,8 @@
 
 *快速导航*
 --------
-- [图形 Graphics](#图形 graphics)
-    - [资源管理和定位器 Assets/Placeholders](#assetsplaceholders)
+- [图形 Graphics](#图形%20graphics)
+    - [资源管理和定位器 Assets/Placeholders](#资源管理和定位器%20assetsplaceholders)
     - [精灵表单工具 Spritesheet Tools](#spritesheet-tools)
     - [位图压缩 Bitmap Compression](#bitmap-compression)
     - [纹理工具 Texture Tools](#texture-tools)
@@ -124,14 +124,14 @@
 #### 动画 Animation
 
 * [Fusion Character Animator](http://loopengo.free.fr/) - 为Clickteam Fusion 2.5而设的面向开发者的增强2D角色精灵动画的小工具。
-* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games. Spine 专注于2D动画，为创建惊人的动画并整合到游戏中提供高效的工作流。
-* [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation. 现代精灵动画工具。
-* [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash 开源的为Flash而设的2D骨架动画解决方案 ![open soucce](/img/opensource.png)
-* [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more. Lightweight SWF。LWF是一款动画引擎，能够从FLASH内容转换为在HTML5、Unity、Cocos2d-x、iOS UIKit等平台上播放。
+* [Spine](http://esotericsoftware.com/) - Spine 专注于2D动画，为创建惊人的动画并整合到游戏中提供高效的工作流。
+* [Spriter](http://www.brashmonkey.com/spriter.htm) - 现代精灵动画工具。
+* [DragonBones](http://dragonbones.effecthub.com) - 开源的为Flash而设的2D骨架动画解决方案 ![open soucce](/img/opensource.png)
+* [LWF](http://gree.github.io/lwf/) - Lightweight SWF。LWF是一款动画引擎，能够从FLASH内容转换为在HTML5、Unity、Cocos2d-x、iOS UIKit等平台上播放。
 
 #### 矢量图/位图编辑器 Vector/Image Editor
 
-* [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats 带有大量特殊功能的矢量图形编辑器，同时也支持Adobe软件系列相关文件格式。 ![commercial](/img/commercial.png)
+* [Affinity Designer](https://affinity.serif.com/de/designer) - 带有大量特性的矢量图形编辑器，同时也支持Adobe软件系列相关文件格式。 ![commercial](/img/commercial.png)
 * [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer 图片和栅格图形编辑器，能够兼容Adobe软件系列相关文件格式和Affinity Designer。 ![commercial](/img/commercial.png)
 * [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. 动态精灵编辑器和像素绘制工具。 ![commercial](/img/commercial.png)
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. GNU Image Manipulation Program，这是处理诸如图片修饰、图像创作和图像编辑等事物的免费发行软件。 ![open soucce](/img/opensource.png)
@@ -141,15 +141,15 @@
 * [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor. Ormr是一款快捷的、轻量的、跨平台、过程式的图形编辑器。
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. Paint.NET是一款运行在Windows个人电脑上免费图像编辑软件。 ![free](/img/free.png)
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. 另一款像素绘制工具 ![commercial](/img/commercial.png)
-* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. 在线的免费像素绘制和动态精灵编辑工具。 ![open soucce](/img/opensource.png)
-* [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac Mac上拥有齐全功能的图像编辑应用。
-* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
-* [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
+* [PiskelApp](http://www.piskelapp.com/) - 在线的免费像素绘制和动态精灵编辑工具。 ![open soucce](/img/opensource.png)
+* [Pixelmator](http://www.pixelmator.com) - Mac上拥有齐全功能的图像编辑应用。
+* [Pixen](https://github.com/Pixen/Pixen) - 面向OSX平台的像素绘制工具。
+* [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only 一款面向 Commodore 64 平台的图像格式转换工具，覆盖该平台上各种不同的图形格式。该软件只能在 Windows 上运行。
 * [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free ![commercial](/img/commercial.png)
-* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![commercial](/img/commercial.png)
-* [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
+* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. 像素绘制编辑器，能够有趣并简便地制作瓷片地图集、关卡和动画。 ![commercial](/img/commercial.png)
+* [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows 一款运行在Windows平台上的面向 Commodore 64 平台的像素绘制编辑器。
 
-#### Modeling
+#### 建模 Modeling
 
 * [Blender](http://www.blender.org/) ![open soucce](/img/opensource.png)
 * [MakeHuman](http://www.makehuman.org/)
@@ -158,13 +158,13 @@
 * [3ds Max](http://www.autodesk.com/products/3ds-max/overview) ![commercial](/img/commercial.png)
 * [Clara.io](https://clara.io/)
 
-#### Terrain Generators
+#### 地形生成器 Terrain Generators
 
-* [Artifex Terra](http://www.artifexterra.com/) - Terrain editor for easy and sophisticated landscape painting and editing ![free](/img/free.png)
-* [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively ![free](/img/free.png)
-* [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
-* [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D terrain generator
-* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing ![commercial](/img/commercial.png)
+* [Artifex Terra](http://www.artifexterra.com/) - 用于简易和复杂地形绘制和编辑的地形编辑器。 ![free](/img/free.png)
+* [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - 能够快速并直观地创建高质量，拟真的地形。 ![free](/img/free.png)
+* [Fracplanet](https://sourceforge.net/projects/fracplanet/) - 分形行星和地形生成器。
+* [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D地形生成器。
+* [World Machine](http://www.world-machine.com/) - 过程式地形创建，自然模拟和交互式编辑。 ![commercial](/img/commercial.png)
 
 #### Voxel Editors
 
@@ -183,9 +183,9 @@
 
 #### 2D
 
-* [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices. 跨平台的2D游戏框架，支持Lua编程语言，兼容iOS, Mac和Windows设备。
-* [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. Allegro 4 & 5是跨平台，开源的游戏编程库，主要面向C和C++开发者。 ![open soucce](/img/opensource.png)
-* [AndEngine](http://www.andengine.org) - 2D Android Game Engine 2D Android游戏引擎。
+* [Agen](http://2dengine.com) - 跨平台的2D游戏框架，支持Lua编程语言，兼容iOS, Mac和Windows设备。
+* [Allegro](http://liballeg.org/) - Allegro 4 & 5是跨平台，开源的游戏编程库，主要面向C和C++开发者。 ![open soucce](/img/opensource.png)
+* [AndEngine](http://www.andengine.org) - 2D Android游戏引擎。
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games. 一个方便2D游戏开发的框架，提供了即用的QML元素去表示游戏中普遍存在的基本游戏元素。
 * [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor. 经典的点击型冒险游戏引擎和编辑器。
 * [Box2D](http://box2d.org/) - A 2D Physics Engine for Games. 一款2D游戏物理引擎。
@@ -194,29 +194,29 @@
 * [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language 面向游戏和多媒体的图形工具库，使用Python程序语言进行开发。
 * [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE. 一款使用C++编程语言，基于OpenGL 2D和3D的游戏引擎。使用C++开发但是也支持JavaScript和Lua的连接。面向主要奥德移动平台和操作系统。另有配套工具CocoStudio和Cocos Code IDE。
 * [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting. 一款HTML5游戏制作工具，意味着你实际上不需要通过写JavaScript来开发，可以使用actions, events和conditions去完成繁重的工作。
-* [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
-* [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
-* [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing ![free](/img/free.png)
-* [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
-* [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
-* [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. ![open soucce](/img/opensource.png)
-* [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
-* [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
-* [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
-* [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3. ![open soucce](/img/opensource.png)
-* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. ![limited free](/img/limited.png)
-* [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
-* [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
-* [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. ![open soucce](/img/opensource.png)
-* [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
-* [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
-* [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
-* [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
-* [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
-* [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
-* [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines ![open soucce](/img/opensource.png)
-* [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. ![open soucce](/img/opensource.png)
-* [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
+* [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input. 一款JavaScript游戏的微框架。包含碰撞检测，游戏刷新循环，画布渲染和键盘鼠标输入。
+* [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android. 面向iOS和Android跨平台移动应用开发包。
+* [Defold](http://www.defold.com/) - 面向跨平台发布的开源2D游戏引擎。 ![free](/img/free.png)
+* [Duality](http://duality.adamslair.net/) - 带有可视化编辑器的 C# / OpenGL 2D 游戏引擎。
+* [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go. 一款使用Go程序语言开发的多平台2D游戏工具库
+* [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. 一款快速的，开源的在iOS平台上的JavaScript，Canvas和音频实现。 ![open soucce](/img/opensource.png)
+* [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps. 一款简单的用于创建游戏和应用的JavaScript框架。
+* [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses. 一款带有仿真物理反应的碰撞检测系统。
+* [FlashPunk](http://useflashpunk.net/) - 面向2D Flash游戏开发的开源ActionScript 3工具库。
+* [Flixel](http://flixel.org/index.html) - 一款使用 ActionScript3 编程语言开发的开源游戏制作工具 ![open soucce](/img/opensource.png)
+* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.  ![limited free](/img/limited.png)
+* [GameSalad](https://gamesalad.com/) - 面向Mac和Windows平台的游戏制作引擎。
+* [Gideros](http://giderosmobile.com/) - 一款使用 Lua 编程语言来创建 iOS ，Android 移动应用和游戏的跨平台框架。
+* [Godot](http://www.godotengine.org/) - 一款先进的，功能丰富，跨平台的2D和3D开源游戏引擎。 ![open soucce](/img/opensource.png)
+* [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free. 免费并且简便地创建跨平台游戏。
+* [ImpactJS](http://impactjs.com/) - Impact是能够让你在桌面端浏览器和移动端浏览器开发惊异的 HTML5 游戏的 JavaScript 游戏引擎。
+* [Jitter](https://code.google.com/p/jitterphysics/) - 一款用 C# 编写的快速及轻量的物理引擎。
+* [Juno](https://github.com/rxi/juno) - 使用 Lua 编程语言开发的用于制作2D像素游戏的游戏程序框架。
+* [Kivent](http://kivent.org/) - 面向 Kivy 的 2D 游戏程序框架。
+* [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS 为Linux、Windows、OS X, Android 和 iOS 平台开发应用和游戏的跨平台 Python 程序框架。
+* [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines 一款有趣和友好的开源 HTML5 游戏引擎，有人称它为 HTML5 游戏引擎中的 WordPress。 ![open soucce](/img/opensource.png)
+* [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. 基于Java编程语言的强力的程序库(而且完全免费)，一次编码可以运行在桌面系统、Android、Web 和 iOS。 ![open soucce](/img/opensource.png)
+* [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and 面向所有现代触摸屏设备的，用于创建快速，本地设备体验的游戏的 HTML5 游戏框架。
 * [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service. ![open soucce](/img/opensource.png)
 * [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
 * [LÖVE](http://love2d.org) - Lua 2D Game Engine. ![open soucce](/img/opensource.png)
