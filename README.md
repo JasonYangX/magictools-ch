@@ -17,8 +17,8 @@
 
 *快速导航*
 --------
-- [图形 Graphics](#图形%20graphics)
-    - [资源管理和定位器 Assets/Placeholders](#资源管理和定位器%20assetsplaceholders)
+- [图形 Graphics](#graphics)
+    - [资源管理和定位器 Assets/Placeholders](#assetsplaceholders)
     - [精灵表单工具 Spritesheet Tools](#spritesheet-tools)
     - [位图压缩 Bitmap Compression](#bitmap-compression)
     - [纹理工具 Texture Tools](#texture-tools)
@@ -201,14 +201,14 @@
 * [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go. 一款使用Go程序语言开发的多平台2D游戏工具库
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. 一款快速的，开源的在iOS平台上的JavaScript，Canvas和音频实现。 ![open soucce](/img/opensource.png)
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps. 一款简单的用于创建游戏和应用的JavaScript框架。
-* [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses. 一款带有仿真物理反应的碰撞检测系统。
+* [Farseer](http://farseerphysics.codeplex.com) - 一款带有仿真物理反应的碰撞检测系统。
 * [FlashPunk](http://useflashpunk.net/) - 面向2D Flash游戏开发的开源ActionScript 3工具库。
 * [Flixel](http://flixel.org/index.html) - 一款使用 ActionScript3 编程语言开发的开源游戏制作工具 ![open soucce](/img/opensource.png)
 * [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.  ![limited free](/img/limited.png)
 * [GameSalad](https://gamesalad.com/) - 面向Mac和Windows平台的游戏制作引擎。
 * [Gideros](http://giderosmobile.com/) - 一款使用 Lua 编程语言来创建 iOS ，Android 移动应用和游戏的跨平台框架。
 * [Godot](http://www.godotengine.org/) - 一款先进的，功能丰富，跨平台的2D和3D开源游戏引擎。 ![open soucce](/img/opensource.png)
-* [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free. 免费并且简便地创建跨平台游戏。
+* [HaxeFlixel](http://haxeflixel.com/) - 免费并且便捷地创建跨平台游戏。
 * [ImpactJS](http://impactjs.com/) - Impact是能够让你在桌面端浏览器和移动端浏览器开发惊异的 HTML5 游戏的 JavaScript 游戏引擎。
 * [Jitter](https://code.google.com/p/jitterphysics/) - 一款用 C# 编写的快速及轻量的物理引擎。
 * [Juno](https://github.com/rxi/juno) - 使用 Lua 编程语言开发的用于制作2D像素游戏的游戏程序框架。
@@ -217,46 +217,46 @@
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines 一款有趣和友好的开源 HTML5 游戏引擎，有人称它为 HTML5 游戏引擎中的 WordPress。 ![open soucce](/img/opensource.png)
 * [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. 基于Java编程语言的强力的程序库(而且完全免费)，一次编码可以运行在桌面系统、Android、Web 和 iOS。 ![open soucce](/img/opensource.png)
 * [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and 面向所有现代触摸屏设备的，用于创建快速，本地设备体验的游戏的 HTML5 游戏框架。
-* [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service. ![open soucce](/img/opensource.png)
-* [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
-* [LÖVE](http://love2d.org) - Lua 2D Game Engine. ![open soucce](/img/opensource.png)
-* [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
-* [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
-* [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
-* [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine. ![open soucce](/img/opensource.png)
-* [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
-* [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework. ![open soucce](/img/opensource.png)
-* [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
-* [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games. ![open soucce](/img/opensource.png)
-* [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
-* [Origamijs](http://origamijs.com/docs) - Lightweight Library to create using HTML5 Canvas.
-* [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
-* [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine. ![open soucce](/img/opensource.png)
-* [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-* [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles.
-* [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
-* [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
-* [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
-* [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
-* [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
-* [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
-* [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
-* [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
-* [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
-* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
-* [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
-* [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
-* [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
-* [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
-* [TIC - Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
-* [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
-* [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
-* [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
-* [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
+* [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service. 带有代码和资源的重载的2D移动 app 和游戏框架，使用与ActionScript/JavaScript/C# 类似语法的脚本语言进行开发，并带有强力的 2D 渲染和 UI 框架。开源并且带有付费的 "Turbo" 服务。 ![open soucce](/img/opensource.png)
+* [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development. 一款使用 C++ 11 编写而成的 2D / 3D 框架。非常高效而且现代化，而且还在处于开发当中。
+* [LÖVE](http://love2d.org) - Lua 2D Game Engine.  基于 Lua 编程语言的 2D 游戏引擎。 ![open soucce](/img/opensource.png)
+* [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA) 使用 C++ 编写而成的开源 2D 游戏框架(以 XNA 的风格)。
+* [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting. 为专业游戏开发者设计的跨平台游戏框架，使用 C++，OpenGL 和 Lua 脚本来开发 iOS, Android, Windows, Linux, Chrome 和 OSX 平台上的游戏
+* [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web. 一款面向 Web 的 2D 物理引擎。
+* [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.  开源轻量级 HTML5 游戏引擎。 ![open soucce](/img/opensource.png)
+* [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming. 多平台编程语言和跨编译器，专注于快速游戏编程。
+* [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework. Microsoft XNA 4 Framework 的开源实现。 ![open soucce](/img/opensource.png)
+* [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design. 作为 Python 工具家族的一员，用于创建具有生产力的设计。
+* [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games. 用于制作多平台游戏的开源 Haxe引擎 ![open soucce](/img/opensource.png)
+* [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine. OpenRA 是一款自由/免费的即时战略游戏引擎。
+* [Origamijs](http://origamijs.com/docs) - Lightweight Library to create using HTML5 Canvas. 用于创建 HTML5 Canvas 的轻量级库。
+* [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs. 一款用于制作、分享和游玩小型游戏和其他电脑程序的梦幻般的主机。
+* [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine. 开源 HTML5 引擎。 ![open soucce](/img/opensource.png)
+* [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. 免费且快捷的 2D 游戏框架，用于开发面向桌面和移动浏览器的 HTML5 游戏，支持 Canvas 和 WebGL 渲染。
+* [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles. 一款被设计用来模拟你喜欢的 8-bit 主机的框架。
+* [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas. 这是一款新晋的 HTML5 游戏渲染器 - 在2013年第一次发布。这款引擎的主要特点在于它在 WebGL 上的快速性能。如果浏览器不支持 WebGL，该引擎就会回归标准的 Canvas 标准进行渲染。
+* [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers. Processing 是一款程序语言，为艺术家、设计师和研究员的开发环境。
+* [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine. 开源的 HTML5 益智游戏引擎。
+* [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python. 一款用 Python 程序语言实现的 2D 游戏引擎。
+* [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games. 用于创建 HTML5 游戏的高效的基于 Web 平台的工具
+* [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games. 用于开发 RPG (Role Playing Games)系列的软件系列。
+* [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS. 一款开源的使用简化形式的 Python 程序语言进行开发的视觉小说制作引擎。它支持 Windows、Mac OS X、Linux、Android 和 iOS 这些平台。
+* [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge. 一款基于 Scala 程序语言和 LibGDX 引擎的 2D RPG 游戏引擎和编辑器
+* [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. SDL 是一款跨平台的程序库，通过 OpenGL 和 Direct3D 对音频、键盘、鼠标、摇杆和图形硬件提供提供底层访问。
+* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library. 简易和快捷的多媒体程序库。
+* [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine. iOS/Mac 2D 游戏引擎。
+* [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development. 用于跨平台游戏开发的轻量级和快捷的 2D HTML5 渲染器和布局引擎
+* [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API GPU 加强的 2D Flash API。
+* [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web. 一款允许用户为个人电脑、移动设备和 Web 创建 2D 视频游戏的游戏创作平台。
+* [TIC - Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games. 一款你能在上面创造、游玩和分享小型游戏的小型电脑
+* [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games. 可下载或者基于浏览器的游戏开发平台，允许用户创作关联故事线。不仅仅是基于文本的，Twine支持音乐、图像
+* [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework. Microsoft 的游戏开发框架。
+* [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications 一款加速 HTML5 Canvas 应用的创作和开发的 Javascript 程序库。
+* [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library JavaScript 2D 物理库。
 
 #### 3D
 
-* [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
+* [Azul3D](http://azul3d.org/) - A 3D engine written in Go. 一款使用 Go 程序语言开发的 3D 游戏引擎。
 * [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. ![open soucce](/img/opensource.png)
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
