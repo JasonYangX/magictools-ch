@@ -17,9 +17,9 @@
 
 *快速导航*
 --------
-- [图形 Graphics](#graphics)
+- [图形 Graphics](#图形)
     - [资源管理和定位器 Assets/Placeholders](#assetsplaceholders)
-    - [精灵表单工具 Spritesheet Tools](#spritesheet-tools)
+    - [精灵表单工具 Spritesheet Tools](#精灵表单工具)
     - [位图压缩 Bitmap Compression](#bitmap-compression)
     - [纹理工具 Texture Tools](#texture-tools)
     - [游戏角色生成器 Character Generators](#character-generators)
@@ -50,7 +50,7 @@
   - [普通游戏开发 General Game Development](#general-game-development)
   - [计算机图形学 Computer Graphics](#computer-graphics)
 
-图形 Graphics
+图形
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
@@ -79,7 +79,7 @@
 * [Vecteezy](http://www.vecteezy.com/) - 免费的矢量图美术资源 ![free](/img/free.png)
 * [Yobi3D](https://www.yobi3d.com/) - 免费模型搜索引擎 ![free](/img/free.png)
 
-#### 精灵表单工具 Spritesheet Tools
+#### 精灵表单工具
 
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - 高效并快速的2D图形打包工具。 ![open soucce](/img/opensource.png)
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - 易用的动画图形编辑器 ![commercial](/img/commercial.png)
@@ -235,7 +235,7 @@
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. 免费且快捷的 2D 游戏框架，用于开发面向桌面和移动浏览器的 HTML5 游戏，支持 Canvas 和 WebGL 渲染。
 * [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles. 一款被设计用来模拟你喜欢的 8-bit 主机的框架。
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas. 这是一款新晋的 HTML5 游戏渲染器 - 在2013年第一次发布。这款引擎的主要特点在于它在 WebGL 上的快速性能。如果浏览器不支持 WebGL，该引擎就会回归标准的 Canvas 标准进行渲染。
-* [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers. Processing 是一款程序语言，为艺术家、设计师和研究员的开发环境。
+* [Processing](https://www.processing.org/) - Processing 是一款程序语言，为艺术家、设计师和研究员的开发环境。
 * [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine. 开源的 HTML5 益智游戏引擎。
 * [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python. 一款用 Python 程序语言实现的 2D 游戏引擎。
 * [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games. 用于创建 HTML5 游戏的高效的基于 Web 平台的工具
@@ -244,10 +244,10 @@
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge. 一款基于 Scala 程序语言和 LibGDX 引擎的 2D RPG 游戏引擎和编辑器
 * [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. SDL 是一款跨平台的程序库，通过 OpenGL 和 Direct3D 对音频、键盘、鼠标、摇杆和图形硬件提供提供底层访问。
 * [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library. 简易和快捷的多媒体程序库。
-* [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine. iOS/Mac 2D 游戏引擎。
-* [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development. 用于跨平台游戏开发的轻量级和快捷的 2D HTML5 渲染器和布局引擎
-* [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API GPU 加强的 2D Flash API。
-* [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web. 一款允许用户为个人电脑、移动设备和 Web 创建 2D 视频游戏的游戏创作平台。
+* [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D 游戏引擎。
+* [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级和快捷的 2D HTML5 渲染器和布局引擎
+* [Starling](http://gamua.com/starling/) - GPU 加强的 2D Flash API。
+* [Stencyl](http://www.stencyl.com/) -  一款允许用户为个人电脑、移动设备和 Web 创建 2D 视频游戏的游戏创作平台。
 * [TIC - Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games. 一款你能在上面创造、游玩和分享小型游戏的小型电脑
 * [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games. 可下载或者基于浏览器的游戏开发平台，允许用户创作关联故事线。不仅仅是基于文本的，Twine支持音乐、图像
 * [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework. Microsoft 的游戏开发框架。
@@ -257,9 +257,9 @@
 #### 3D
 
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go. 一款使用 Go 程序语言开发的 3D 游戏引擎。
-* [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. ![open soucce](/img/opensource.png)
-* [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
-* [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+* [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. 一款用于在网络浏览器创建和展示可交互的 3D 计算机图形的 Javascript 框架。 ![open soucce](/img/opensource.png)
+* [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games. 与 3D Basic 类似的编程语言，用于快速 3D 桌面系统游戏。
+* [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation. 实时物理模拟。
 * [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
 * [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. ![open soucce](/img/opensource.png)
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
