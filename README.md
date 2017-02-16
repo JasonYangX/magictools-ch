@@ -257,39 +257,39 @@
 #### 3D
 
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go. 一款使用 Go 程序语言开发的 3D 游戏引擎。
-* [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. 一款用于在网络浏览器创建和展示可交互的 3D 计算机图形的 Javascript 框架。 ![open soucce](/img/opensource.png)
+* [Blend4Web](http://www.blend4web.com/) - 一款用于在网络浏览器创建和展示可交互的 3D 计算机图形的 Javascript 框架。 ![open soucce](/img/opensource.png)
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games. 与 3D Basic 类似的编程语言，用于快速 3D 桌面系统游戏。
-* [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation. 实时物理模拟。
-* [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
-* [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. ![open soucce](/img/opensource.png)
-* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
-* [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
-* [Haxor](http://www.haxor.xyz/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
-* [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
-* [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine. ![open soucce](/img/opensource.png)
-* [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. ![open soucce](/img/opensource.png)
-* [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
-* [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-* [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. ![open soucce](/img/opensource.png)
-* [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
-* [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
-* [Paradox](http://paradox3d.net/) - Open Source C# Game Engine. ![open soucce](/img/opensource.png)
-* [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. ![open soucce](/img/opensource.png)
-* [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
-* [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
-* [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
-* [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
-* [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
-* [Three.js](http://threejs.org/) - Javascript 3D Library.
-* [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
-* [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
-* [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
-* [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
-* [Wave](http://waveengine.net/) - Cross-platform engine written in C#
-* [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
-* [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-* [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
-* [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
+* [Bullet](http://bulletphysics.org/wordpress/) - 实时物理模拟。
+* [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++. 用 C++ 编写的下一世代 3D 游戏引擎。
+* [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. Cinder 是一款社区开发型的，免费的，和开源的源代码库，用于 C++ 下的专业品质的创新性代码编写。 ![open soucce](/img/opensource.png)
+* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. 一个使用 D 编程语言编写的免费和开放的 3D 游戏引擎。
+* [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology. 一款提供强大和通用的多平台运行技术的跨平台游戏引擎。
+* [Haxor](http://www.haxor.xyz/) - 把 HaXe 编程语言和 HTML5 + WebGL 连接起来，用来简易地开发强大的可以运行在任意现代浏览器的应用。
+* [Hive3D](http://www.eyelead.com/hive/) - 实时协作型的 3D 引擎。
+* [Horde3D](http://www.horde3d.org/) - 小型的开源 3D 渲染引擎。 ![open soucce](/img/opensource.png)
+* [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++.  用 C++ 编写的开源的高性能实时 3D 引擎。 ![open soucce](/img/opensource.png)
+* [JPCT](http://www.jpct.net/) - jPCT 是了一款面向桌面系统的 Java 和 Google 的 Android 的 3D 引擎。
+* [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - 是一款免费的与 Amazon 深度整合的 3A 级游戏引擎。
+* [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. ODE 是一款开源的，高性能的工具库，用于模拟刚体运动学。 ![open soucce](/img/opensource.png)
+* [Ogre3D](http://www.ogre3d.org/) -  Ogre3D 是一款面向场景的，实时的，灵活的用 C++ 编写而成的 3D 渲染引擎。(与游戏引擎相对应)。
+* [Panda3D](https://www.panda3d.org/) - 一款用 Python 和 C++ 编程的 3D 渲染和游戏开发框架。
+* [Paradox](http://paradox3d.net/) - 开源的 C# 游戏引擎。 ![open soucce](/img/opensource.png)
+* [Piston](http://www.piston.rs/) - 一款用 Rust 编写的模块化的开源游戏引擎 ![open soucce](/img/opensource.png)
+* [PlayCanvas](https://playcanvas.com/) - 一款 WebGL 游戏引擎。
+* [Polycode](http://polycode.org) - 用于使用 C++ 开发游戏(使用 Lua 连接)的开源框架。
+* [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 引擎。
+* [Spring](http://springrts.com/) - 一款免费跨平台的 RTS 类型游戏引擎
+* [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker HTML5 协作型 2D/3D 游戏制作工具。
+* [Three.js](http://threejs.org/) - Javascript 3D 工具库。
+* [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 为游戏构建，发行，迭代开发和商业化高质量游戏提供了独一无二的支持，为带有沉浸式的 3D 效果和实时物理的前所未有和惊奇的网络内容打开了一个全新的世界。
+* [Unity 3D](http://unity3d.com/) - 一款用于创建 2D 和 3D 游戏和交互内容的开发引擎。
+* [Unreal Engine 4](https://www.unrealengine.com/) - 由 Epic Games 开发的新型游戏引擎技术。
+* [Urho3D](http://urho3d.github.io/) - 跨平台渲染和游戏引擎。
+* [Wave](http://waveengine.net/) - 用 C# 编写的跨平台引擎。
+* [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games 3d javacript 框架，用于创建 app 和游戏。
+* [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. 跨平台，图形 API 不可知，有着“带给你属于自己的引擎/框架” 的感觉的渲染工具库。
+* [gameplay](http://gameplay3d.io/) - 一款使用 C++ 编写的免费，开源的，跨平台，2D + 3D 游戏框架。它主要面向独立游戏开发者
+* [jMonkeyEngine 3](http://jmonkeyengine.org/) - 一款面向富有冒险精神的 Java 开发者的开源游戏引擎。
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 with AWS and Twitch – with full source.
 
@@ -303,11 +303,11 @@ Audio
 
 ### Collections
 
-* [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
-* [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds.
+* [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds. 各种带版权的免费游戏生效打包。
+* [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds. 通用协议下的可在创作的协作型声效数据库。
 * [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use.
 * [Musopen](https://musopen.org/) - Royalty free music.
-* [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
+* [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds. 免费的 UI 声效库
 * [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 * [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
 
@@ -347,7 +347,7 @@ Must see
 * [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
 * [Extraguy](http://www.extraguy.com/)
 * [Gamasutra](http://www.gamasutra.com/)
-* [Game Development on StackExchange](http://gamedev.stackexchange.com/)
+* [Game Development on StackExchange](http://gamedev.stackexchange.com/) StackExchange 上的"游戏开发"板块
 * [GameDev](http://www.gamedev.net/page/index.html)
 * [GameDevs.org](http://gamedevs.org/)
 * [GameJolt](http://gamejolt.com/)
@@ -372,32 +372,32 @@ Must see
 
 ### Books
 
-* [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
-* [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
-* [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
+* [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/) 图形和游戏开发的三维数学入门书
+* [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20) 游戏中的人工智能
+* [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/) 游戏和交互应用的数学精髓:程序员指南
 * [Flow](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/)
-* [Game Coding Complete](http://www.amazon.com/Game-Coding-Complete-Fourth-McShaffry/dp/1133776574/)
-* [Game Development Essentials: Game Level Design](http://www.goodreads.com/book/show/1633392.Game_Development_Essentials)
-* [Game Engine Architecture](http://www.gameenginebook.com/)
-* [Game Mechanics: Advanced Game Design](http://www.goodreads.com/book/show/13705461-game-mechanics)
+* [Game Coding Complete](http://www.amazon.com/Game-Coding-Complete-Fourth-McShaffry/dp/1133776574/) 游戏代码大全
+* [Game Development Essentials: Game Level Design](http://www.goodreads.com/book/show/1633392.Game_Development_Essentials) 游戏开发精髓:游戏关卡设计
+* [Game Engine Architecture](http://www.gameenginebook.com/) 游戏引擎架构
+* [Game Mechanics: Advanced Game Design](http://www.goodreads.com/book/show/13705461-game-mechanics) 游戏的机制:进阶游戏设计
 * [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
-* [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch)
+* [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch) Hello Scratch: 通过制作街机游戏来学习编程
 * [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
-* [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20)
-* [Nature of Code](http://natureofcode.com/book/)
-* [Physics for Game Developers](http://www.amazon.com/Physics-Game-Developers-David-Bourg/dp/0596000065)
-* [Programming Game AI by Example](http://www.amazon.com/dp/1556220782?tag=game-prog-books-20)
-* [Real-Time Rendering](http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/)
-* [Rules of Play](http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/)
-* [The Art of Game Design](http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/)
-* [The Ultimate Guide to Video Game Writing and Design](http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design)
-* [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/)
-* [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
+* [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20) 3D 游戏编程和计算机图形学中的数学
+* [Nature of Code](http://natureofcode.com/book/) 代码的生态
+* [Physics for Game Developers](http://www.amazon.com/Physics-Game-Developers-David-Bourg/dp/0596000065) 面向游戏开发者的物理学
+* [Programming Game AI by Example](http://www.amazon.com/dp/1556220782?tag=game-prog-books-20) 游戏 AI 编程实例
+* [Real-Time Rendering](http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/) 实时渲染
+* [Rules of Play](http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/) 游戏的规则
+* [The Art of Game Design](http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/) 游戏设计的艺术
+* [The Ultimate Guide to Video Game Writing and Design](http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design) 视频游戏编写和设计的终极指南
+* [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/) 视觉故事
+* [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/) 乐趣的原理
 * [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
 
-### Magazines
+### 杂志
 
 * [Casual Connect](http://casualconnect.org/) ![free](/img/free.png)
 * [Game Developer Magazine](http://www.gdcvault.com/gdmag) ![free](/img/free.png)
@@ -407,37 +407,37 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
+* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). 一个游戏评论列表(来自GDC, youtube 等等)。
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
-* [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
-* [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat:
-* [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
-* [Ludum Dare](http://ludumdare.com/) - very popular game jam
-* [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam
+* [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams itch.io上的游戏阻塞列表
+* [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat: GitHub 上的游戏阻塞
+* [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams 游戏阻塞的列表
+* [Ludum Dare](http://ludumdare.com/) - very popular game jam 十分流行的游戏阻塞
+* [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam 每周一小时游戏阻塞
 
 ### Project Management
 
-* [Casual](https://casual.pm/) - Visual Project Management ![commercial](/img/commercial.png)
-* [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games ![limited free](/img/limited.png)
-* [HacknPlan](http://hacknplan.com/) - Project management for game developers ![limited free](/img/limited.png)
+* [Casual](https://casual.pm/) - Visual Project Management 视觉化的项目管理器 ![commercial](/img/commercial.png)
+* [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games 受集换式卡牌游戏启发的项目管理工具 ![limited free](/img/limited.png)
+* [HacknPlan](http://hacknplan.com/) - Project management for game developers 面向游戏开发着的项目管理 ![limited free](/img/limited.png)
 * [Taiga](https://taiga.io/) - Project management platform for agile developers & designers ![limited free](/img/limited.png)
 * [Trello](https://trello.com/) - Organize and prioritize projects ![limited free](/img/limited.png)
 
 ### Complete Game Sources
 
-* [Doom 3](https://github.com/id-Software/DOOM-3) ![open soucce](/img/opensource.png)
-* [Doom](https://github.com/id-Software/DOOM) ![open soucce](/img/opensource.png)
-* [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) ![free](/img/free.png)
-* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) ![open soucce](/img/opensource.png)
-* [Quake 2](https://github.com/id-Software/Quake-2) ![open soucce](/img/opensource.png)
+* [Doom 3](https://github.com/id-Software/DOOM-3) 毁灭战士3 ![open soucce](/img/opensource.png)
+* [Doom](https://github.com/id-Software/DOOM) 毁灭战士 ![open soucce](/img/opensource.png)
+* [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) 毁灭公爵3D:原子版 ![free](/img/free.png)
+* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) 波斯王子 ![open soucce](/img/opensource.png)
+* [Quake 2](https://github.com/id-Software/Quake-2) 雷神之锤2 ![open soucce](/img/opensource.png)
 * [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) ![open soucce](/img/opensource.png)
-* [Quake](https://github.com/id-Software/Quake) ![open soucce](/img/opensource.png)
-* [SimCity](https://github.com/simhacker/micropolis) ![open soucce](/img/opensource.png)
-* [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ![open soucce](/img/opensource.png)
+* [Quake](https://github.com/id-Software/Quake) 雷神之锤 ![open soucce](/img/opensource.png)
+* [SimCity](https://github.com/simhacker/micropolis) 模拟城市 ![open soucce](/img/opensource.png)
+* [Wolfenstein 3D](https://github.com/id-Software/wolf3d) 德军总部3D ![open soucce](/img/opensource.png)
 
 Ads
 ---
