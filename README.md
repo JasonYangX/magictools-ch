@@ -53,7 +53,7 @@
 
 图形
 --------
-*Great graphics placeholders and tools to turn that squared game into a picasso painting*
+*强大的图形资源和工具把平凡的游戏打造成如毕加索作品般的艺术品*
 
 #### 资源管理和定位器 Assets/Placeholders
 
@@ -65,10 +65,10 @@
 * [Games-Icons Set](http://game-icons.net/) - 为你的游戏添加免费图标。![free](/img/free.png)
 * [Iconmonstr](http://iconmonstr.com/) - 另一个免费的图标资源网站![free](/img/free.png)
 * [Kenny Assets](http://kenney.nl/assets) - 带有版权的免费资源 ![limited free](/img/limited.png)
-* [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums ![free](/img/free.png)
+* [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums 由 OpenGameArt 论坛维护的基于 Liberated Pixel Cup (LPC) 协议的免费图形资源 ![free](/img/free.png)
 * [OpenClipart](https://openclipart.org/) -  免费的剪贴画集锦。![free](/img/free.png)
-* [OpenGameArt](http://opengameart.org/) - a media repository intended for use with free software game projects. ![free](/img/free.png)
-* [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites 廉价的高质量带版权免费精灵资源。 ![commercial](/img/commercial.png)
+* [OpenGameArt](http://opengameart.org/) - a media repository intended for use with free software game projects. 一个用于免费游戏项目的媒体库。 ![free](/img/free.png)
+* [Oryx Design Lab](http://oryxdesignlab.com/) - 廉价的高质量带版权免费精灵资源。 ![commercial](/img/commercial.png)
 * [PlainTextures](http://www.plaintextures.com/) - 免费的高分辨率纹理贴图笔刷和图像。 ![free](/img/free.png)
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - 一个关于免费2D和3D图形的博客。 ![free](/img/free.png)
 * [Sketchfab](https://sketchfab.com/) - 发行和嵌入型交互的3D模型。
@@ -95,11 +95,11 @@
 
 * [ImageAlpha](http://pngmini.com/) — 带有Max OS X 界面的PNG分析器与其他工具。
 * [Kraken.io](https://kraken.io/) - 健壮的，十分快速的带有最优算法的图像优化和压缩工具
-* [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
-* [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
+* [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites 用于加快站点登陆的 PNG 图像拆分工具。
+* [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion. Windows GUI 下的 batch 转换。
 * [Pngyu](http://nukesaq88.github.io/Pngyu/) - 简单的PNG图像文件压缩工具。
-* [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
-* [TinyPNG](https://tinypng.com/) - 先进的带有保留alpha透明值的PNG图像有损压缩
+* [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web" 基于 Mac 和 Windows 平台，和 "Save for Web" 相对。
+* [TinyPNG](https://tinypng.com/) - 先进的带有保留alpha透明值的PNG图像有损压缩。
 
 #### 纹理贴图工具
 
@@ -134,7 +134,7 @@
 
 * [Affinity Designer](https://affinity.serif.com/de/designer) - 带有大量特性的矢量图形编辑器，同时也支持Adobe软件系列相关文件格式。 ![commercial](/img/commercial.png)
 * [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer 图片和栅格图形编辑器，能够兼容Adobe软件系列相关文件格式和Affinity Designer。 ![commercial](/img/commercial.png)
-* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. 动态精灵编辑器和像素绘制工具。 ![commercial](/img/commercial.png)
+* [Aseprite](http://www.aseprite.org/) - 动态精灵编辑器和像素绘制工具。 ![commercial](/img/commercial.png)
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. GNU Image Manipulation Program，这是处理诸如图片修饰、图像创作和图像编辑等事物的免费发行软件。 ![open soucce](/img/opensource.png)
 * [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. 一个开源的矢量图形编辑器，与Adobe Illustrator、Corel Draw、Freehand和Xara X等软件相似。 ![open soucce](/img/opensource.png)
 * [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters. Krita是基于KDE桌面系统的用于绘图和绘画工具，提供了与大师协同创建数字绘图文件终端到终端的解决方案。
@@ -180,7 +180,7 @@
 ----
 *游戏框架、引擎和平台*
 
-### 游戏引擎与框架 Engines and Frameworks
+### 游戏引擎与框架
 
 #### 2D
 
@@ -337,7 +337,7 @@
 
 必看
 --------
-*Blogs, portals, magazines and more*
+*博客，门户网站，杂志和更多*
 
 ### 博客和门户网站
 
@@ -441,7 +441,7 @@
 
 广告
 ---
-*We still need to make some money, right? 我们也要赚点小钱，对吧*
+*我们也要赚点小钱，对吧*
 
 * [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile. 移动端上的 Google 广告和增值服务
 * [AdColony](http://www.adcolony.com/) - Mobile video Ads service. 移动视频广告服务
@@ -453,19 +453,19 @@
 
 学习资源
 -----
-*Online courses, tutorials, screencasts*
+*在线课程，教程，截屏视频*
 
 ### 普通游戏开发
 
-* [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
-* [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
-* [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
-* [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
-* [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
+* [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming) Coursera: 使用 C# 开始游戏编程
+* [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1) Coursera: 可交互 Python 编程简介
+* [HandmadeHero: making 2D game from scratch](https://handmadehero.org/) HandmadeHero: 从头创作 2D 游戏
+* [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) 可汗学院: 进阶性 JS: 游戏 & 可视化
+* [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) 简易 HTML5 Canvas 游戏
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
-* [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+* [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255) 优达学城: HTML5 游戏开发
 
 ### 计算机图形学
 
-* [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
-* [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
+* [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) 交互式 3D 图像学
+* [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) 交互式计算机图形学
