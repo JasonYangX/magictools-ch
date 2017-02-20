@@ -20,35 +20,36 @@
 - [图形 Graphics](#图形)
     - [资源管理和定位器 Assets/Placeholders](#assetsplaceholders)
     - [精灵表单工具 Spritesheet Tools](#精灵表单工具)
-    - [位图压缩 Bitmap Compression](#bitmap-compression)
-    - [纹理工具 Texture Tools](#texture-tools)
-    - [游戏角色生成器 Character Generators](#character-generators)
-    - [瓷片地图/关卡编辑器 Tile/Level Editors](#tilelevel-editors)
-    - [动画 Animation](#animation)
-    - [矢量图/位图编辑器 Vector/Image Editor](#vectorimage-editor)
-    - [建模 Modeling](#modeling)
-    - [地形生成器 Terrain Generators](#terrain-generators)
-    - [像素编辑器 Voxel Editors](#voxel-editors)
-- [代码 Code](#code)
-  - [游戏引擎与框架 Engines and Frameworks](#engines-and-frameworks)
+    - [位图压缩 Bitmap Compression](#位图压缩)
+    - [纹理工具 Texture Tools](#纹理工具)
+    - [游戏角色生成器 Character Generators](#游戏角色生成器)
+    - [瓷片地图/关卡编辑器 Tile/Level Editors](#瓷片地图/关卡编辑器)
+    - [动画 Animation](#动画)
+    - [矢量图/位图编辑器 Vector/Image Editor](#矢量图/位图编辑器)
+    - [建模 Modeling](#建模)
+    - [地形生成器 Terrain Generators](#地形生成器)
+    - [像素编辑器 Voxel Editors](#像素编辑器)
+- [代码 Code](#代码)
+  - [游戏引擎与框架 Engines and Frameworks](#游戏引擎与框架)
     - [2D](#2d)
     - [3D](#3d)
-  - [人工智能 AI](#ai)
-- [音频 Audio](#audio)
-  - [集锦 Collections](#collections)
-  - [音乐和音频编辑器 Music and Audio Editors](#music-and-audio-editors)
-- [桌上游戏 Board Games](#board-games)
-- [必看 Must see](#must-see)
+  - [AI](#ai)
+- [音频 Audio](#音频)
+  - [集锦 Collections](#集锦)
+  - [音乐和音频编辑器 Music and Audio Editors](#音乐和音频编辑器)
+- [桌面游戏 Board Games](#桌面游戏)
+- [必看 Must see](#必看)
   - [博客和门户网站 Blogs and Portals](#blogs-and-portals)
-  - [书籍 Books](#books)
-  - [杂志 Magazines](#magazines)
-  - [游戏阻塞 Game Jams](#game-jams)
-  - [项目管理器 Project Management](#project-management)
-  - [完整的游戏源代码 Complete Game Sources](#complete-game-sources)
-- [广告 Ads](#ads)
-- [学习资源 Learn](#learn)
-  - [普通游戏开发 General Game Development](#general-game-development)
-  - [计算机图形学 Computer Graphics](#computer-graphics)
+  - [书籍 Books](#书籍)
+  - [杂志 Magazines](#杂志)
+  - [视频/博客](#视频or博客)
+  - [游戏阻塞 Game Jams](#游戏阻塞)
+  - [项目管理 Project Management](#项目管理)
+  - [完整的游戏源代码 Complete Game Sources](#完整的游戏源代码)
+- [广告 Ads](#广告)
+- [学习资源 Learn](#学习资源)
+  - [普通游戏开发 General Game Development](#普通游戏开发)
+  - [计算机图形学 Computer Graphics](#计算机图形学)
 
 图形
 --------
@@ -90,7 +91,7 @@
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - 一款简单而且免费的精灵表单预览工具。 ![free](/img/free.png)
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - 优秀的精灵表单创建器。 ![commercial](/img/commercial.png)
 
-#### 位图压缩 Bitmap Compression
+#### 位图压缩
 
 * [ImageAlpha](http://pngmini.com/) — 带有Max OS X 界面的PNG分析器与其他工具。
 * [Kraken.io](https://kraken.io/) - 健壮的，十分快速的带有最优算法的图像优化和压缩工具
@@ -100,28 +101,28 @@
 * [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
 * [TinyPNG](https://tinypng.com/) - 先进的带有保留alpha透明值的PNG图像有损压缩
 
-#### 纹理贴图工具 Texture Tools
+#### 纹理贴图工具
 
 * [FilterForge](https://www.filterforge.com/) - 作为Adobe Photoshop的一款插件，能够让你开发属于你自己的滤镜。
 * [PixPlant](http://www.pixplant.com/) - PixPlant是一款智能3D贴图工具，创建高质量的法线、置换、高光映射和从图片生成无缝纹理贴图。
 * [STG](http://www.seamlesstexturegenerator.com/) - 一款用于从图片迅速并简易地创建专业无缝可重复的纹理贴图地工具。
 
-#### 游戏角色生成器 Character Generators
+#### 游戏角色生成器
 
 * [Charas](http://charas-project.net/index.php) - Charas是一款为RPG Maker而设的角色集生成器
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - 精灵角色生成器。
 * [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - 基于LPC(Liberated Pixel Cup)图形的精灵角色生成器。 ![free](/img/free.png)
 
-#### 瓷片地图/关卡编辑器 Tile/Level Editors
+#### 瓷片地图/关卡编辑器
 
-* [ArrayPainter](http://www.arraypainter.com/) - Array Painter能够简便并快捷地为你的项目制作用于复制粘贴的2D序列。
+* [ArrayPainter](http://arraypainter.com/) - Array Painter能够简便并快捷地为你的项目制作用于复制粘贴的2D序列。
 * [AutoTileGen](http://pixelatto.com) - AutoTileGen是自动化的面向2D游戏地形的瓷片地块集生成器。 ![commercial](/img/commercial.png)
 * [OGMO Editor](http://www.ogmoeditor.com/) - 泛用型关卡编辑器。 ![open soucce](/img/opensource.png)
 * [Overlap2D](http://overlap2d.com/) - 一款与具体游戏引擎无关的2D关卡和UI编辑器。
 * [Mappy](http://tilemap.co.uk/mappy.php) - 免费的瓷片地图编辑器。 ![free](/img/free.png)
 * [Tiled](http://www.mapeditor.org/) - 免费的，易用的和可拓展的瓷片地图编辑器 ![free](/img/free.png)
 
-#### 动画 Animation
+#### 动画
 
 * [Fusion Character Animator](http://loopengo.free.fr/) - 为Clickteam Fusion 2.5而设的面向开发者的增强2D角色精灵动画的小工具。
 * [Spine](http://esotericsoftware.com/) - Spine 专注于2D动画，为创建惊人的动画并整合到游戏中提供高效的工作流。
@@ -129,7 +130,7 @@
 * [DragonBones](http://dragonbones.effecthub.com) - 开源的为Flash而设的2D骨架动画解决方案 ![open soucce](/img/opensource.png)
 * [LWF](http://gree.github.io/lwf/) - Lightweight SWF。LWF是一款动画引擎，能够从FLASH内容转换为在HTML5、Unity、Cocos2d-x、iOS UIKit等平台上播放。
 
-#### 矢量图/位图编辑器 Vector/Image Editor
+#### 矢量图/位图编辑器
 
 * [Affinity Designer](https://affinity.serif.com/de/designer) - 带有大量特性的矢量图形编辑器，同时也支持Adobe软件系列相关文件格式。 ![commercial](/img/commercial.png)
 * [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer 图片和栅格图形编辑器，能够兼容Adobe软件系列相关文件格式和Affinity Designer。 ![commercial](/img/commercial.png)
@@ -149,7 +150,7 @@
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. 像素绘制编辑器，能够有趣并简便地制作瓷片地图集、关卡和动画。 ![commercial](/img/commercial.png)
 * [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows 一款运行在Windows平台上的面向 Commodore 64 平台的像素绘制编辑器。
 
-#### 建模 Modeling
+#### 建模
 
 * [Blender](http://www.blender.org/) ![open soucce](/img/opensource.png)
 * [MakeHuman](http://www.makehuman.org/)
@@ -175,7 +176,7 @@
 * [VoxelShop](https://blackflux.com/index.php)
 
 
-代码 Code
+代码
 ----
 *游戏框架、引擎和平台*
 
@@ -290,56 +291,55 @@
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. 跨平台，图形 API 不可知，有着“带给你属于自己的引擎/框架” 的感觉的渲染工具库。
 * [gameplay](http://gameplay3d.io/) - 一款使用 C++ 编写的免费，开源的，跨平台，2D + 3D 游戏框架。它主要面向独立游戏开发者
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - 一款面向富有冒险精神的 Java 开发者的开源游戏引擎。
-* [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
-with AWS and Twitch – with full source.
+* [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.with AWS and Twitch – with full source. voxel.js 是一款项目集合，能够比以往更简便地开发 3D 像素游戏，比如浏览器中的 Minecraft。它自带 AWS 和 Twitch 支持，而且完全是开源的。
 
 ### AI
 
-* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
+* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT. 用 C++ 11 实现的行为树基工具库，带有 QT5 远程调试器(而且带有可选的 Lua 连接)。基于 MIT 协议发布。
 
-Audio
+音频
 -----
-*Audio editors, sounds collections and more.*
+*音频编辑器，声效集锦和更多。*
 
-### Collections
+### 集锦
 
 * [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds. 各种带版权的免费游戏生效打包。
-* [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds. 通用协议下的可在创作的协作型声效数据库。
-* [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use.
-* [Musopen](https://musopen.org/) - Royalty free music.
-* [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds. 免费的 UI 声效库
-* [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
-* [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
+* [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds. 通用协议下的可再创作的协作型声效数据库。
+* [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use. 随机的“有小故障”的电脑音效大全，能够免费使用。
+* [Musopen](https://musopen.org/) - Royalty free music.带版权的免费音乐。
+* [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds. 免费的 UI 声效库。
+* [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection. 带版权的免费声效集锦。
+* [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses. 带版权，免费的，可搜索的，多种开放协议下的各种声效打包。
 
-### Music and Audio Editors
+### 音乐和音频编辑器
 
-* [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds. ![open soucce](/img/opensource.png)
-* [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
-* [Audiotool](http://www.audiotool.com/app) - Online music producer.
-* [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
-* [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. ![free](/img/free.png)
-* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
-* [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
-* [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
-* [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
-* [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-* [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer ![open soucce](/img/opensource.png)
-* [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. ![open soucce](/img/opensource.png)
-* [Soundation](https://soundation.com/) - Online Professional music studio.
-* [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
+* [Audacity](http://sourceforge.net/projects/audacity/) - 开源的，跨平台的录音和声效编辑软件 ![open soucce](/img/opensource.png)
+* [Audiosauna](http://www.audiosauna.com/) - 把你的网页浏览器编程一款快速和灵活的内置合成器和现场效果的音乐创作工作室
+* [Audiotool](http://www.audiotool.com/app) - 在线音乐创作器。
+* [Bfxr](http://www.bfxr.net/) - 为电脑游戏创作声效的工具。
+* [Bosca Ceoil](http://boscaceoil.net/) - 由 Terry Cavanagh 开发的在线(同时也是桌面软件)音乐生成器。简易，直观，而且还有独特的怀旧声音。 ![free](/img/free.png)
+* [ChipTone](http://sfbgames.com/chiptone/) - 在线的声效生成器。
+* [FamiTracker](http://famitracker.com/) - 免费的，运行在 Windows 系统上的音轨工具，用于为 NES/Famicom-systems 生成音乐。
+* [iNudge](http://tonematrix.audiotool.com) - 在线创作声音模式。
+* [jfxr](http://jfxr.frozenfractal.com) - 一个 Bfxr 声效生成器的 JavaScript 接口。
+* [MadTracker](http://www.madtracker.org/main.php) - 一个强大和高效的创作音乐的解决方案，因为完全的 VST™, ASIO™ 和 ReWire™ 支持，所以能够保证多样性和兼容性。
+* [musagi](http://www.drpetter.se/project_musagi.html) - 开源的，相对大型的和复杂的音乐编辑器和合成器。 ![open soucce](/img/opensource.png)
+* [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - 开源的 MIDI 音序器。 ![open soucce](/img/opensource.png)
+* [Soundation](https://soundation.com/) - 在线的专业音乐工作室。
+* [SunVox](http://www.warmplace.ru/soft/sunvox/) - 一款小型的，快速的，和强大的带有基于模式的音序器(音轨器)的模块化合成器。
 
-Board Games
+桌面游戏
 -----------
-*Tools for making board games*
+*用于制作桌面游戏的工具*
 
-* [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator.
-* [RPTools](http://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games.
+* [Boardgamizer](http://www.boardgamizer.com/) - 桌上游戏设计方案生成器。
+* [RPTools](http://www.rptools.net/) - 一款开源的用于提升传统纸笔 RPG 游戏的软件。
 
-Must see
+必看
 --------
 *Blogs, portals, magazines and more*
 
-### Blogs and Portals
+### 博客和门户网站
 
 * [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 * [BigSushi](http://www.bigsushi.fm/)
@@ -370,7 +370,7 @@ Must see
 * [indiegames](http://indiegames.com/index.html)
 * [indievault](http://www.indievault.it/)
 
-### Books
+### 书籍
 
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/) 图形和游戏开发的三维数学入门书
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20) 游戏中的人工智能
@@ -380,9 +380,9 @@ Must see
 * [Game Development Essentials: Game Level Design](http://www.goodreads.com/book/show/1633392.Game_Development_Essentials) 游戏开发精髓:游戏关卡设计
 * [Game Engine Architecture](http://www.gameenginebook.com/) 游戏引擎架构
 * [Game Mechanics: Advanced Game Design](http://www.goodreads.com/book/show/13705461-game-mechanics) 游戏的机制:进阶游戏设计
-* [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492)
-* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
-* [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
+* [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492) 游戏编程精华
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/) 游戏编程模式
+* [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578) 精通游戏脚本
 * [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch) Hello Scratch: 通过制作街机游戏来学习编程
 * [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
 * [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20) 3D 游戏编程和计算机图形学中的数学
@@ -395,7 +395,7 @@ Must see
 * [The Ultimate Guide to Video Game Writing and Design](http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design) 视频游戏编写和设计的终极指南
 * [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/) 视觉故事
 * [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/) 乐趣的原理
-* [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
+* [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618) Windows 游戏编程权威的技巧
 
 ### 杂志
 
@@ -405,57 +405,57 @@ Must see
 * [Making Games](http://www.makinggames.biz/) ![free](/img/free.png)
 * [indie-o-rama](http://www.indieorama.com/) ![free](/img/free.png)
 
-### Videos/Podcasts
+### 视频/博客
 
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). 一个游戏评论列表(来自GDC, youtube 等等)。
-* [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
+* [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch 上的 GameDev Streams。
 
-### Game Jams
+### 游戏阻塞
 
-* [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
-* [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams itch.io上的游戏阻塞列表
-* [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat: GitHub 上的游戏阻塞
-* [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams 游戏阻塞的列表
-* [Ludum Dare](http://ludumdare.com/) - very popular game jam 十分流行的游戏阻塞
-* [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam 每周一小时游戏阻塞
+* [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline. 时间轴上的多个游戏阻塞的编译站。
+* [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams itch.io上的游戏阻塞列表。
+* [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat: GitHub 上的游戏阻塞。
+* [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams 游戏阻塞的列表。
+* [Ludum Dare](http://ludumdare.com/) - 十分流行的游戏阻塞。
+* [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam 每周一小时游戏阻塞。
 
-### Project Management
+### 项目管理
 
-* [Casual](https://casual.pm/) - Visual Project Management 视觉化的项目管理器 ![commercial](/img/commercial.png)
-* [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games 受集换式卡牌游戏启发的项目管理工具 ![limited free](/img/limited.png)
-* [HacknPlan](http://hacknplan.com/) - Project management for game developers 面向游戏开发着的项目管理 ![limited free](/img/limited.png)
+* [Casual](https://casual.pm/) - 视觉化的项目管理器 ![commercial](/img/commercial.png)
+* [Codecks](https://www.codecks.io) - 受集换式卡牌游戏启发的项目管理工具 ![limited free](/img/limited.png)
+* [HacknPlan](http://hacknplan.com/) - 面向游戏开发着的项目管理 ![limited free](/img/limited.png)
 * [Taiga](https://taiga.io/) - Project management platform for agile developers & designers ![limited free](/img/limited.png)
 * [Trello](https://trello.com/) - Organize and prioritize projects ![limited free](/img/limited.png)
 
-### Complete Game Sources
+### 完整的游戏源代码
 
-* [Doom 3](https://github.com/id-Software/DOOM-3) 毁灭战士3 ![open soucce](/img/opensource.png)
-* [Doom](https://github.com/id-Software/DOOM) 毁灭战士 ![open soucce](/img/opensource.png)
-* [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) 毁灭公爵3D:原子版 ![free](/img/free.png)
-* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) 波斯王子 ![open soucce](/img/opensource.png)
-* [Quake 2](https://github.com/id-Software/Quake-2) 雷神之锤2 ![open soucce](/img/opensource.png)
+* [毁灭战士3](https://github.com/id-Software/DOOM-3) ![open soucce](/img/opensource.png)
+* [毁灭战士](https://github.com/id-Software/DOOM) ![open soucce](/img/opensource.png)
+* [毁灭公爵3D:原子版](http://legacy.3drealms.com/duke3d/) ![free](/img/free.png)
+* [波斯王子](https://github.com/jmechner/Prince-of-Persia-Apple-II) ![open soucce](/img/opensource.png)
+* [雷神之锤2](https://github.com/id-Software/Quake-2) ![open soucce](/img/opensource.png)
 * [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) ![open soucce](/img/opensource.png)
-* [Quake](https://github.com/id-Software/Quake) 雷神之锤 ![open soucce](/img/opensource.png)
-* [SimCity](https://github.com/simhacker/micropolis) 模拟城市 ![open soucce](/img/opensource.png)
-* [Wolfenstein 3D](https://github.com/id-Software/wolf3d) 德军总部3D ![open soucce](/img/opensource.png)
+* [雷神之锤](https://github.com/id-Software/Quake) ![open soucce](/img/opensource.png)
+* [模拟城市](https://github.com/simhacker/micropolis) ![open soucce](/img/opensource.png)
+* [德军总部3D](https://github.com/id-Software/wolf3d) ![open soucce](/img/opensource.png)
 
-Ads
+广告
 ---
-*We still need to make some money, right?*
+*We still need to make some money, right? 我们也要赚点小钱，对吧*
 
-* [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile.
-* [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
-* [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
-* [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
-* [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
-* [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
-* [Vungle](https://vungle.com/) - Video Ads service.
+* [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile. 移动端上的 Google 广告和增值服务
+* [AdColony](http://www.adcolony.com/) - Mobile video Ads service. 移动视频广告服务
+* [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps. 一款面向移动端应用的编程式的广告调度器
+* [ChartBoost](https://www.chartboost.com/) - 增值化和分析平台。
+* [RevMob](https://www.revmobmobileadnetwork.com/) - 增值化和广告解决方案。
+* [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D 官方广告 SDK。
+* [Vungle](https://vungle.com/) - 视频广告服务。
 
-Learn
+学习资源
 -----
 *Online courses, tutorials, screencasts*
 
-### General Game Development
+### 普通游戏开发
 
 * [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 * [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
@@ -465,7 +465,7 @@ Learn
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
 
-### Computer Graphics
+### 计算机图形学
 
 * [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 * [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
