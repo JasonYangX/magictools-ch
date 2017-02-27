@@ -177,7 +177,6 @@
 * [Sproxel](http://sproxel.blogspot.com.br/)
 * [VoxelShop](https://blackflux.com/index.php)
 
-
 代码
 ----
 *游戏框架、引擎和平台*
@@ -196,6 +195,7 @@
 * [Chipmunk2D](https://chipmunk-physics.net/) - 一款快速的，轻量级的2D游戏物理引擎。
 * [Cocos2D](https://github.com/los-cocos/cocos) - 面向游戏和多媒体的图形工具库，使用Python程序语言进行开发。
 * [Cocos2d-x](http://cocos2d-x.org/) - 一款使用C++编程语言，基于OpenGL 2D和3D的游戏引擎。使用C++开发但是也支持JavaScript和Lua的连接。面向主要奥德移动平台和操作系统。另有配套工具CocoStudio和Cocos Code IDE。
+* [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) - Cocos Creator，一款免费的支持 Cocos2d-js 的跨平台游戏开发编辑器，帮助开发者创建 2D 和 3D 游戏场景，快速并高效地编辑游戏 UI 和其他游戏资源。
 * [Construct 2](https://www.scirra.com/) - 一款HTML5游戏制作工具，意味着你实际上不需要通过写JavaScript来开发，可以使用actions, events和conditions去完成繁重的工作。
 * [Coquette](http://coquette.maryrosecook.com/) - 一款JavaScript游戏的微框架。包含碰撞检测，游戏刷新循环，画布渲染和键盘鼠标输入。
 * [Corona SDK](https://coronalabs.com/) - 面向iOS和Android跨平台移动应用开发包。
@@ -360,6 +360,7 @@
 * [Html5 Game Development](http://www.html5gamedevelopment.com/)
 * [IndieDB](http://www.indiedb.com/)
 * [Indius](http://indius.org/)
+* [Mod DB](http://www.moddb.com/)
 * [Java Gaming](http://www.java-gaming.org/)
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
