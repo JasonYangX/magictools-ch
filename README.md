@@ -189,30 +189,30 @@
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5是跨平台，开源的游戏编程库，主要面向C和C++开发者。 ![open soucce](/img/opensource.png)
 * [AndEngine](http://www.andengine.org) - 2D Android游戏引擎。
 * [Bacon2D](http://bacon2d.com/) - 一个方便2D游戏开发的框架，提供了即用的QML元素去表示游戏中普遍存在的基本游戏元素。
-* [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor. 经典的点击型冒险游戏引擎和编辑器。
-* [Box2D](http://box2d.org/) - 一款2D游戏物理引擎。
-* [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - 由C#程序语言实现的Chipmunk2D工具库。
+* [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - 经典的点击型冒险游戏引擎和编辑器。
+* [Box2D](http://box2d.org/) - 一款 2D 游戏物理引擎。
+* [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - 由C#程序语言实现的 Chipmunk2D 工具库。
 * [Chipmunk2D](https://chipmunk-physics.net/) - 一款快速的，轻量级的2D游戏物理引擎。
-* [Cocos2D](https://github.com/los-cocos/cocos) - 面向游戏和多媒体的图形工具库，使用Python程序语言进行开发。
-* [Cocos2d-x](http://cocos2d-x.org/) - 一款使用C++编程语言，基于OpenGL 2D和3D的游戏引擎。使用C++开发但是也支持JavaScript和Lua的连接。面向主要奥德移动平台和操作系统。另有配套工具CocoStudio和Cocos Code IDE。
+* [Cocos2D](https://github.com/los-cocos/cocos) - 面向游戏和多媒体的图形工具库，使用 Python 程序语言进行开发。
+* [Cocos2d-x](http://cocos2d-x.org/) - 一款使用C++编程语言，基于OpenGL 2D和3D的游戏引擎。使用 C++ 开发但是也支持 JavaScript和 Lua 的连接。面向主要奥德移动平台和操作系统。另有配套工具CocoStudio和Cocos Code IDE。
 * [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) - Cocos Creator，一款免费的支持 Cocos2d-js 的跨平台游戏开发编辑器，帮助开发者创建 2D 和 3D 游戏场景，快速并高效地编辑游戏 UI 和其他游戏资源。
 * [Construct 2](https://www.scirra.com/) - 一款HTML5游戏制作工具，意味着你实际上不需要通过写JavaScript来开发，可以使用actions, events和conditions去完成繁重的工作。
 * [Coquette](http://coquette.maryrosecook.com/) - 一款JavaScript游戏的微框架。包含碰撞检测，游戏刷新循环，画布渲染和键盘鼠标输入。
-* [Corona SDK](https://coronalabs.com/) - 面向iOS和Android跨平台移动应用开发包。
-* [Defold](http://www.defold.com/) - 面向跨平台发布的开源2D游戏引擎。 ![free](/img/free.png)
+* [Corona SDK](https://coronalabs.com/) - 面向 iOS 和 Android 跨平台移动应用开发包。
+* [Defold](http://www.defold.com/) - 面向跨平台发布的开源 2D 游戏引擎。 ![free](/img/free.png)
 * [Duality](http://duality.adamslair.net/) - 带有可视化编辑器的 C# / OpenGL 2D 游戏引擎。
-* [ENGi](https://github.com/ajhager/engi) - 一款使用Go程序语言开发的多平台2D游戏工具库
-* [Ejecta](http://impactjs.com/ejecta) - 一款快速的，开源的在iOS平台上的JavaScript，Canvas和音频实现。 ![open soucce](/img/opensource.png)
+* [ENGi](https://github.com/ajhager/engi) - 一款使用 Go 程序语言开发的多平台 2D 游戏工具库
+* [Ejecta](http://impactjs.com/ejecta) - 一款快速的，开源的在iOS平台上的 JavaScript，Canvas 和音频实现。 ![open soucce](/img/opensource.png)
 * [EnchantJS](http://enchantjs.com/) - 一款简单的用于创建游戏和应用的JavaScript框架。
 * [Farseer](http://farseerphysics.codeplex.com) - 一款带有仿真物理反应的碰撞检测系统。
 * [FlashPunk](http://useflashpunk.net/) - 面向2D Flash游戏开发的开源ActionScript 3工具库。
 * [Flixel](http://flixel.org/index.html) - 一款使用 ActionScript3 编程语言开发的开源游戏制作工具 ![open soucce](/img/opensource.png)
-* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.  ![limited free](/img/limited.png)
-* [GameSalad](https://gamesalad.com/) - 面向Mac和Windows平台的游戏制作引擎。
+* [GameMaker](http://www.yoyogames.com/studio) - GameMaker， 能够使用拖拽式操作来创建跨平台视频游戏，又或者使用脚本语言 Game Maker Language 来实现拖拽式操作所不能实现的更高级的游戏功能。 ![limited free](/img/limited.png)
+* [GameSalad](https://gamesalad.com/) - 面向 Mac 和 Windows 平台的游戏制作引擎。
 * [Gideros](http://giderosmobile.com/) - 一款使用 Lua 编程语言来创建 iOS ，Android 移动应用和游戏的跨平台框架。
 * [Godot](http://www.godotengine.org/) - 一款先进的，功能丰富，跨平台的2D和3D开源游戏引擎。 ![open soucce](/img/opensource.png)
 * [HaxeFlixel](http://haxeflixel.com/) - 免费并且便捷地创建跨平台游戏。
-* [ImpactJS](http://impactjs.com/) - Impact是能够让你在桌面端浏览器和移动端浏览器开发惊异的 HTML5 游戏的 JavaScript 游戏引擎。
+* [ImpactJS](http://impactjs.com/) - Impact 是能够让你在桌面端浏览器和移动端浏览器开发惊异的 HTML5 游戏的 JavaScript 游戏引擎。
 * [Jitter](https://code.google.com/p/jitterphysics/) - 一款用 C# 编写的快速及轻量的物理引擎。
 * [Juno](https://github.com/rxi/juno) - 使用 Lua 编程语言开发的用于制作2D像素游戏的游戏程序框架。
 * [Kivent](http://kivent.org/) - 面向 Kivy 的 2D 游戏程序框架。
