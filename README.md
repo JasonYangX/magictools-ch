@@ -271,6 +271,7 @@
 * [Horde3D](http://www.horde3d.org/) - 小型的开源 3D 渲染引擎。 ![open soucce](/img/opensource.png)
 * [Irrlicht](http://irrlicht.sourceforge.net/) -  用 C++ 编写的开源的高性能实时 3D 引擎。 ![open soucce](/img/opensource.png)
 * [JPCT](http://www.jpct.net/) - jPCT 是了一款面向桌面系统的 Java 和 Google 的 Android 的 3D 引擎。
+* [LumixEngine](https://github.com/nem0/LumixEngine) - 使用 C++ 构建的 3D 游戏引擎。
 * [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - 是一款免费的与 Amazon 深度整合的 3A 级游戏引擎。
 * [ODE](http://www.ode.org/) - ODE 是一款开源的，高性能的工具库，用于模拟刚体运动学。 ![open soucce](/img/opensource.png)
 * [Ogre3D](http://www.ogre3d.org/) -  Ogre3D 是一款面向场景的，实时的，灵活的用 C++ 编写而成的 3D 渲染引擎。(与游戏引擎相对应)。
