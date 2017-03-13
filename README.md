@@ -5,8 +5,8 @@
 -----
 
 * 本资源列表主要是收集关于 **游戏开发和设计** 的资源链接。
-* 本资源列表是翻译自[ellisonleao/magictools](https://github.com/ellisonleao/magictools)的简体中文版本，在此对原作者及其贡献者的努力表示感谢(Thank your work!)。
-* 有任何的翻译纠正和建议，请尽管pull request和issue。 :)
+* 本资源列表是翻译自 [ellisonleao/magictools](https://github.com/ellisonleao/magictools) 的简体中文版本，在此对原作者及其贡献者的努力表示感谢(Thank your work!)。
+* 有任何的翻译纠正和建议，请尽管 pull request和issue。 :)
 
 -----
 
@@ -60,8 +60,8 @@
 #### 美术资源
 
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - 连环画式的用户接口资源包，由已分层的.PSD格式文件组成。
-* [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - 420个RPG图标集，免费用于商业用途。
-* [Blender 3D models](https://www.blender-models.com/) - 3D模型、粒子系统和特效。
+* [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - 420个 RPG 图标集，免费用于商业用途。
+* [Blender 3D models](https://www.blender-models.com/) - 3D 模型、粒子系统和特效。
 * [CGTextures](http://www.textures.com) -  大型纹理集锦。
 * [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的包含独立游戏开发者和天才游戏资源创造者的应用市场。
 * [Games-Icons Set](http://game-icons.net/) - 为你的游戏添加免费图标。![free](/img/free.png)
@@ -88,39 +88,39 @@
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - 易用的动画图形编辑器 ![commercial](/img/commercial.png)
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - 内置的纹理贴图打包器。 ![open soucce](/img/opensource.png)
 * [Littera](http://kvazars.com/littera) - 位图字体生成器。 ![free](/img/free.png)
-* [ShoeBox](http://renderhjs.net/shoebox/) - 基于 Adobe Air 应用的游戏和UI相关工具 ![free](/img/free.png)
+* [ShoeBox](http://renderhjs.net/shoebox/) - 基于 Adobe Air 应用的游戏和 UI 相关工具 ![free](/img/free.png)
 * [Sprite Sheet Packer](https://spritesheetpacker.codeplex.com/) - 把多幅图像合并到单一个精灵表单并生成相应的.txt格式的映射表。
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - 一款简单而且免费的精灵表单预览工具。 ![free](/img/free.png)
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - 优秀的精灵表单创建器。 ![commercial](/img/commercial.png)
 
 #### 位图压缩
 
-* [ImageAlpha](http://pngmini.com/) — 带有Max OS X 界面的PNG分析器与其他工具。
+* [ImageAlpha](http://pngmini.com/) — 带有 Mac OS X 界面的PNG分析器与其他工具。
 * [Kraken.io](https://kraken.io/) - 健壮的，十分快速的带有最优算法的图像优化和压缩工具
 * [PNGGauntlet](http://pnggauntlet.com/) - 用于加快站点登陆的 PNG 图像拆分工具。
 * [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI 下的 batch 转换。
 * [Pngyu](http://nukesaq88.github.io/Pngyu/) - 简单的PNG图像文件压缩工具。
 * [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — 基于 Mac 和 Windows 平台，和 "Save for Web" 相对。
-* [TinyPNG](https://tinypng.com/) - 先进的带有保留alpha透明值的PNG图像有损压缩。
+* [TinyPNG](https://tinypng.com/) - 先进的带有保留 alpha 透明值的PNG图像有损压缩。
 
 #### 纹理贴图工具
 
 * [FilterForge](https://www.filterforge.com/) - 作为 Adobe Photoshop 的一款插件，能够让你开发属于你自己的滤镜。
-* [PixPlant](http://www.pixplant.com/) - PixPlant 是一款智能3D贴图工具，创建高质量的法线、置换、高光映射和从图片生成无缝纹理贴图。
+* [PixPlant](http://www.pixplant.com/) - PixPlant 是一款智能 3D 贴图工具，创建高质量的法线、置换、高光映射和从图片生成无缝纹理贴图。
 * [STG](http://www.seamlesstexturegenerator.com/) - 一款用于从图片迅速并简易地创建专业无缝可重复的纹理贴图地工具。
 
 #### 游戏角色生成器
 
-* [Charas](http://charas-project.net/index.php) - Charas是一款为RPG Maker而设的角色集生成器
+* [Charas](http://charas-project.net/index.php) - Charas 是一款为 RPG Maker 而设的角色集生成器
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - 精灵角色生成器。
 * [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - 基于 LPC(Liberated Pixel Cup) 图形的精灵角色生成器。 ![free](/img/free.png)
 
 #### 瓷片地图/关卡编辑器
 
 * [ArrayPainter](http://arraypainter.com/) - Array Painter 能够简便并快捷地为你的项目制作用于复制粘贴的2D序列。
-* [AutoTileGen](http://pixelatto.com) - AutoTileGen是自动化的面向2D游戏地形的瓷片地块集生成器。 ![commercial](/img/commercial.png)
+* [AutoTileGen](http://pixelatto.com) - AutoTileGen 是自动化的面向 2D 游戏地形的瓷片地块集生成器。 ![commercial](/img/commercial.png)
 * [OGMO Editor](http://www.ogmoeditor.com/) - 泛用型关卡编辑器。 ![open soucce](/img/opensource.png)
-* [Overlap2D](http://overlap2d.com/) - 一款与具体游戏引擎无关的2D关卡和UI编辑器。
+* [Overlap2D](http://overlap2d.com/) - 一款与具体游戏引擎无关的 2D 关卡和 UI 编辑器。
 * [Mappy](http://tilemap.co.uk/mappy.php) - 免费的瓷片地图编辑器。 ![free](/img/free.png)
 * [Tiled](http://www.mapeditor.org/) - 免费的，易用的和可拓展的瓷片地图编辑器 ![free](/img/free.png)
 
@@ -129,28 +129,28 @@
 * [Fusion Character Animator](http://loopengo.free.fr/) - 为 Clickteam Fusion 2.5 而设的面向开发者的增强2D角色精灵动画的小工具。
 * [Spine](http://esotericsoftware.com/) - Spine 专注于2D动画，为创建惊人的动画并整合到游戏中提供高效的工作流。
 * [Spriter](http://www.brashmonkey.com/spriter.htm) - 现代精灵动画工具。
-* [DragonBones](http://dragonbones.effecthub.com) - 开源的为Flash而设的2D骨架动画解决方案 ![open soucce](/img/opensource.png)
-* [LWF](http://gree.github.io/lwf/) - Lightweight SWF。LWF是一款动画引擎，能够从FLASH内容转换为在HTML5、Unity、Cocos2d-x、iOS UIKit等平台上播放。
+* [DragonBones](http://dragonbones.effecthub.com) - 开源的为 Flash 而设的2D骨架动画解决方案 ![open soucce](/img/opensource.png)
+* [LWF](http://gree.github.io/lwf/) - Lightweight SWF。LWF 是一款动画引擎，能够从FLASH内容转换为在HTML5、Unity、Cocos2d-x、iOS UIKit等平台上播放。
 
 #### 矢量图/位图编辑器
 
-* [Affinity Designer](https://affinity.serif.com/de/designer) - 带有大量特性的矢量图形编辑器，同时也支持Adobe软件系列相关文件格式。 ![commercial](/img/commercial.png)
-* [Affinity Photo](https://affinity.serif.com/de/photo) - 图片和栅格图形编辑器，能够兼容Adobe软件系列相关文件格式和Affinity Designer。 ![commercial](/img/commercial.png)
+* [Affinity Designer](https://affinity.serif.com/de/designer) - 带有大量特性的矢量图形编辑器，同时也支持 Adobe 软件系列相关文件格式。 ![commercial](/img/commercial.png)
+* [Affinity Photo](https://affinity.serif.com/de/photo) - 图片和栅格图形编辑器，能够兼容Adobe软件系列相关文件格式和 Affinity Designer。 ![commercial](/img/commercial.png)
 * [Aseprite](http://www.aseprite.org/) - 动态精灵编辑器和像素绘制工具。 ![commercial](/img/commercial.png)
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program，这是处理诸如图片修饰、图像创作和图像编辑等事物的免费发行软件。 ![open soucce](/img/opensource.png)
-* [Inkscape](https://inkscape.org/en/) - 一个开源的矢量图形编辑器，与Adobe Illustrator、Corel Draw、Freehand和Xara X等软件相似。 ![open soucce](/img/opensource.png)
+* [Inkscape](https://inkscape.org/en/) - 一个开源的矢量图形编辑器，与 Adobe Illustrator、Corel Draw、Freehand 和 Xara X 等软件相似。 ![open soucce](/img/opensource.png)
 * [Krita](https://krita.org/) - Krita是基于KDE桌面系统的用于绘图和绘画工具，提供了与大师协同创建数字绘图文件终端到终端的解决方案。
 * [Multipaint](http://multipaint.kameli.net) - 一个跨平台(Win, Linux, Mac)的图像编辑器和绘图工具，覆盖了8位机的颜色限定功能(比如 C64, ZX Spectrum 等等)。
 * [Ormr](http://thebloomapp.com) - Ormr是一款快捷的、轻量的、跨平台、过程式的图形编辑器。
-* [Paint.NET](http://www.getpaint.net/) - Paint.NET是一款运行在Windows个人电脑上免费图像编辑软件。 ![free](/img/free.png)
+* [Paint.NET](http://www.getpaint.net/) - Paint.NET是一款运行在 Windows 个人电脑上免费图像编辑软件。 ![free](/img/free.png)
 * [Pickle](http://www.pickleeditor.com/) - 另一款像素绘制工具 ![commercial](/img/commercial.png)
 * [PiskelApp](http://www.piskelapp.com/) - 在线的免费像素绘制和动态精灵编辑工具。 ![open soucce](/img/opensource.png)
-* [Pixelmator](http://www.pixelmator.com) - Mac上拥有齐全功能的图像编辑应用。
+* [Pixelmator](http://www.pixelmator.com) - Mac 上拥有齐全功能的图像编辑应用。
 * [Pixen](https://github.com/Pixen/Pixen) - 面向OSX平台的像素绘制工具。
 * [project one](http://p1.untergrund.net) - 一款面向 Commodore 64 平台的图像格式转换工具，覆盖该平台上各种不同的图形格式。该软件只能在 Windows 上运行。
 * [PXL8](http://www.pxl8.it) - 一款跨平台(Windows, Mac, Linux)像素绘画编辑器，面向免费分发。 ![commercial](/img/commercial.png)
 * [PyxelEdit](http://pyxeledit.com/) - 像素绘制编辑器，能够有趣并简便地制作瓷片地图集、关卡和动画。 ![commercial](/img/commercial.png)
-* [Timanthes](http://csdb.dk/release/?id=75871) - 一款运行在Windows平台上的面向 Commodore 64 平台的像素绘制编辑器。
+* [Timanthes](http://csdb.dk/release/?id=75871) - 一款运行在 Windows 平台上的面向 Commodore 64 平台的像素绘制编辑器。
 
 #### 建模
 
@@ -166,7 +166,7 @@
 * [Artifex Terra](http://www.artifexterra.com/) - 用于简易和复杂地形绘制和编辑的地形编辑器。 ![free](/img/free.png)
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - 能够快速并直观地创建高质量，拟真的地形。 ![free](/img/free.png)
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) - 分形行星和地形生成器。
-* [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D地形生成器。
+* [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D 地形生成器。
 * [World Machine](http://www.world-machine.com/) - 过程式地形创建，自然模拟和交互式编辑。 ![commercial](/img/commercial.png)
 
 #### 像素编辑器
@@ -185,10 +185,10 @@
 
 #### 2D
 
-* [Agen](http://2dengine.com) - 跨平台的2D游戏框架，支持Lua编程语言，兼容iOS, Mac和Windows设备。
-* [Allegro](http://liballeg.org/) - Allegro 4 & 5是跨平台，开源的游戏编程库，主要面向C和C++开发者。 ![open soucce](/img/opensource.png)
-* [AndEngine](http://www.andengine.org) - 2D Android游戏引擎。
-* [Bacon2D](http://bacon2d.com/) - 一个方便2D游戏开发的框架，提供了即用的QML元素去表示游戏中普遍存在的基本游戏元素。
+* [Agen](http://2dengine.com) - 跨平台的2D游戏框架，支持 Lua 编程语言，兼容 iOS, Mac和 Windows 设备。
+* [Allegro](http://liballeg.org/) - Allegro 4 & 5 是跨平台，开源的游戏编程库，主要面向 C 和 C++ 开发者。 ![open soucce](/img/opensource.png)
+* [AndEngine](http://www.andengine.org) - 2D Android 游戏引擎。
+* [Bacon2D](http://bacon2d.com/) - 一个方便 2D 游戏开发的框架，提供了即用的 QML 元素去表示游戏中普遍存在的基本游戏元素。
 * [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - 经典的点击型冒险游戏引擎和编辑器。
 * [Box2D](http://box2d.org/) - 一款 2D 游戏物理引擎。
 * [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - 由C#程序语言实现的 Chipmunk2D 工具库。
@@ -196,21 +196,21 @@
 * [Cocos2D](https://github.com/los-cocos/cocos) - 面向游戏和多媒体的图形工具库，使用 Python 程序语言进行开发。
 * [Cocos2d-x](http://cocos2d-x.org/) - 一款使用C++编程语言，基于OpenGL 2D和3D的游戏引擎。使用 C++ 开发但是也支持 JavaScript和 Lua 的连接。面向主要奥德移动平台和操作系统。另有配套工具CocoStudio和Cocos Code IDE。
 * [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) - Cocos Creator，一款免费的支持 Cocos2d-js 的跨平台游戏开发编辑器，帮助开发者创建 2D 和 3D 游戏场景，快速并高效地编辑游戏 UI 和其他游戏资源。
-* [Construct 2](https://www.scirra.com/) - 一款HTML5游戏制作工具，意味着你实际上不需要通过写JavaScript来开发，可以使用actions, events和conditions去完成繁重的工作。
-* [Coquette](http://coquette.maryrosecook.com/) - 一款JavaScript游戏的微框架。包含碰撞检测，游戏刷新循环，画布渲染和键盘鼠标输入。
+* [Construct 2](https://www.scirra.com/) - 一款 HTML5 游戏制作工具，意味着你实际上不需要通过写JavaScript来开发，可以使用 actions, events 和 conditions 去完成繁重的工作。
+* [Coquette](http://coquette.maryrosecook.com/) - 一款 JavaScript 游戏的微框架。包含碰撞检测，游戏刷新循环，画布渲染和键盘鼠标输入。
 * [Corona SDK](https://coronalabs.com/) - 面向 iOS 和 Android 跨平台移动应用开发包。
 * [Defold](http://www.defold.com/) - 面向跨平台发布的开源 2D 游戏引擎。 ![free](/img/free.png)
 * [Duality](http://duality.adamslair.net/) - 带有可视化编辑器的 C# / OpenGL 2D 游戏引擎。
 * [ENGi](https://github.com/ajhager/engi) - 一款使用 Go 程序语言开发的多平台 2D 游戏工具库
 * [Ejecta](http://impactjs.com/ejecta) - 一款快速的，开源的在iOS平台上的 JavaScript，Canvas 和音频实现。 ![open soucce](/img/opensource.png)
-* [EnchantJS](http://enchantjs.com/) - 一款简单的用于创建游戏和应用的JavaScript框架。
+* [EnchantJS](http://enchantjs.com/) - 一款简单的用于创建游戏和应用的 JavaScript 框架。
 * [Farseer](http://farseerphysics.codeplex.com) - 一款带有仿真物理反应的碰撞检测系统。
-* [FlashPunk](http://useflashpunk.net/) - 面向2D Flash游戏开发的开源ActionScript 3工具库。
+* [FlashPunk](http://useflashpunk.net/) - 面向2D Flash游戏开发的开源 ActionScript 3 工具库。
 * [Flixel](http://flixel.org/index.html) - 一款使用 ActionScript3 编程语言开发的开源游戏制作工具 ![open soucce](/img/opensource.png)
 * [GameMaker](http://www.yoyogames.com/studio) - GameMaker， 能够使用拖拽式操作来创建跨平台视频游戏，又或者使用脚本语言 Game Maker Language 来实现拖拽式操作所不能实现的更高级的游戏功能。 ![limited free](/img/limited.png)
 * [GameSalad](https://gamesalad.com/) - 面向 Mac 和 Windows 平台的游戏制作引擎。
 * [Gideros](http://giderosmobile.com/) - 一款使用 Lua 编程语言来创建 iOS ，Android 移动应用和游戏的跨平台框架。
-* [Godot](http://www.godotengine.org/) - 一款先进的，功能丰富，跨平台的2D和3D开源游戏引擎。 ![open soucce](/img/opensource.png)
+* [Godot](http://www.godotengine.org/) - 一款先进的，功能丰富，跨平台的 2D 和 3D 开源游戏引擎。 ![open soucce](/img/opensource.png)
 * [HaxeFlixel](http://haxeflixel.com/) - 免费并且便捷地创建跨平台游戏。
 * [ImpactJS](http://impactjs.com/) - Impact 是能够让你在桌面端浏览器和移动端浏览器开发惊异的 HTML5 游戏的 JavaScript 游戏引擎。
 * [Jitter](https://code.google.com/p/jitterphysics/) - 一款用 C# 编写的快速及轻量的物理引擎。
@@ -220,7 +220,7 @@
 * [KiwiJS](http://www.kiwijs.org/) - 一款有趣和友好的开源 HTML5 游戏引擎，有人称它为 HTML5 游戏引擎中的 WordPress。 ![open soucce](/img/opensource.png)
 * [LibGDX](https://libgdx.badlogicgames.com/) - 基于Java编程语言的强力的程序库(而且完全免费)，一次编码可以运行在桌面系统、Android、Web 和 iOS。 ![open soucce](/img/opensource.png)
 * [LimeJS](http://www.limejs.com/) - 面向所有现代触摸屏设备的，用于创建快速，本地设备体验的游戏的 HTML5 游戏框架。
-* [Loom SDK](http://loomsdk.com/) - 带有代码和资源的重载的2D移动 app 和游戏框架，使用与ActionScript/JavaScript/C# 类似语法的脚本语言进行开发，并带有强力的 2D 渲染和 UI 框架。开源并且带有付费的 "Turbo" 服务。 ![open soucce](/img/opensource.png)
+* [Loom SDK](http://loomsdk.com/) - 带有代码和资源的重载的2D移动 app 和游戏框架，使用与 ActionScript / JavaScript / C# 类似语法的脚本语言进行开发，并带有强力的 2D 渲染和 UI 框架。开源并且带有付费的 "Turbo" 服务。 ![open soucce](/img/opensource.png)
 * [Lums](https://github.com/lums-proj/Lums) - 一款使用 C++ 11 编写而成的 2D / 3D 框架。非常高效而且现代化，而且还在处于开发当中。
 * [LÖVE](http://love2d.org) - Lua 2D Game Engine.  基于 Lua 编程语言的 2D 游戏引擎。 ![open soucce](/img/opensource.png)
 * [MINX](https://github.com/GearChicken/MINX) - 使用 C++ 编写而成的开源 2D 游戏框架(以 XNA 的风格)。
@@ -230,7 +230,7 @@
 * [Monkey X](http://www.monkey-x.com) - 多平台编程语言和跨编译器，专注于快速游戏编程。
 * [Monogame](http://www.monogame.net/) - Microsoft XNA 4 Framework 的开源实现。 ![open soucce](/img/opensource.png)
 * [NodeBox](https://www.nodebox.net/) - 作为 Python 工具家族的一员，用于创建具有生产力的设计。
-* [OpenFL](http://www.openfl.org/) - 用于制作多平台游戏的开源 Haxe引擎 ![open soucce](/img/opensource.png)
+* [OpenFL](http://www.openfl.org/) - 用于制作多平台游戏的开源 Haxe 引擎 ![open soucce](/img/opensource.png)
 * [OpenRA](http://www.openra.net/) - OpenRA 是一款自由/免费的即时战略游戏引擎。
 * [Origamijs](http://origamijs.com/docs) - 用于创建 HTML5 Canvas 的轻量级库。
 * [PICO-8](http://www.lexaloffle.com/pico-8.php) - 一款用于制作、分享和游玩小型游戏和其他电脑程序的梦幻般的主机。
@@ -389,6 +389,7 @@
 * [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578) 精通游戏脚本
 * [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch) Hello Scratch: 通过制作街机游戏来学习编程
 * [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
+* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 * [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20) 3D 游戏编程和计算机图形学中的数学
 * [Nature of Code](http://natureofcode.com/book/) 代码的生态
 * [Physics for Game Developers](http://www.amazon.com/Physics-Game-Developers-David-Bourg/dp/0596000065) 面向游戏开发者的物理学
@@ -428,8 +429,8 @@
 * [Casual](https://casual.pm/) - 视觉化的项目管理器 ![commercial](/img/commercial.png)
 * [Codecks](https://www.codecks.io) - 受集换式卡牌游戏启发的项目管理工具 ![limited free](/img/limited.png)
 * [HacknPlan](http://hacknplan.com/) - 面向游戏开发着的项目管理 ![limited free](/img/limited.png)
-* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers 面向敏捷开发的开发者与设计师的项目管理平台 ![limited free](/img/limited.png)
-* [Trello](https://trello.com/) - Organize and prioritize projects 对项目进行组织化和优先度处理![limited free](/img/limited.png)
+* [Taiga](https://taiga.io/) - 面向敏捷开发的开发者与设计师的项目管理平台 ![limited free](/img/limited.png)
+* [Trello](https://trello.com/) - 对项目进行组织化和优先度处理![limited free](/img/limited.png)
 
 ### 完整的游戏源代码
 
@@ -466,6 +467,7 @@
 * [HandmadeHero: making 2D game from scratch](https://handmadehero.org/) HandmadeHero: 从头创作 2D 游戏
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) 可汗学院: 进阶性 JS: 游戏 & 可视化
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) 简易 HTML5 Canvas 游戏
+* [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer 一个游戏程序员的学习路线 :octocat:
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255) 优达学城: HTML5 游戏开发
 
